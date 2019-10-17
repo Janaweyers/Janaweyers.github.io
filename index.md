@@ -3,6 +3,9 @@ Minim pariatur quis aliquip commodo. Nostrud minim do laborum eiusmod do mollit 
 
 ![fashion](01.jpg) 
 
+[mode] (blog/mode.md)
+
+
 Labore laborum pariatur est ad
 ipisicing in. Minim cupidatat exercitation consectetur occaecat non nisi eiusmod. Sunt non aliqua proident ut qui sunt nulla laborum eu. Do amet proident quis minim nisi qui dolore sunt exercitation exercitation exercitation. Velit in cupidatat adipisicing reprehenderit ullamco.
 
