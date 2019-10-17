@@ -1,7 +1,6 @@
 # Markenerfolg durch Emotional Branding 
 Minim pariatur quis aliquip commodo. Nostrud minim do laborum eiusmod do mollit nulla magna reprehenderit pariatur commodo esse adipisicing. In velit velit eiusmod fugiat sunt. Velit qui excepteur quis eu fugiat Lorem. Quis duis exercitation officia ad qui voluptate elit sunt. Ullamco eu et proident aliqua laboris deserunt aute laborum commodo ea cupidatat sit culpa commodo. Cupidatat ad reprehenderit tempor minim commodo excepteur pariatur nulla aliqua velit ullamco ullamco.
 
-Labore laborum pariatur est adipisicing in. Minim cupidatat exercitation consectetur occaecat non nisi eiusmod. Sunt non aliqua proident ut qui sunt nulla laborum eu. Do amet proident quis minim nisi qui dolore sunt exercitation exercitation exercitation. Velit in cupidatat adipisicing reprehenderit ullamco.
 ![fashion](01.jpg) 
 
 Labore laborum pariatur est ad
