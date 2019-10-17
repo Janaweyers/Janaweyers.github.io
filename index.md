@@ -3,7 +3,7 @@ Minim pariatur quis aliquip commodo. Nostrud minim do laborum eiusmod do mollit 
 
 ![fashion](01.jpg) 
 
-[mode] (blog/mode.md)
+[mode](blog/mode.md)
 
 
 Labore laborum pariatur est ad
